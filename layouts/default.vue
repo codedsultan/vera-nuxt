@@ -4,7 +4,7 @@
             <main class="shadow">
                 <div class="max-w-screen-lg mx-auto flex flex-row justify-between items-center p-4 sm:p-7 relative z-10 space-x-2 sm:space-x-3">
                     <NuxtLink to="/" class="block">
-                        <h1 class="text-2xl font-black"><span class="text-purple-700">ergo</span>dnc
+                        <h1 class="text-2xl font-black"><span class="text-purple-700">vera</span>X
                         </h1>
                     </NuxtLink>
 

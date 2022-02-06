@@ -71,7 +71,7 @@ export default {
 
     head() {
         return {
-            title: 'Sign In — ergodnc',
+            title: 'Sign In — Vera',
         }
     },
 

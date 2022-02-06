@@ -1,6 +1,6 @@
 export default {
     head: {
-        title: 'ergodnc',
+        title: 'Vera',
         htmlAttrs: {
             lang: 'en'
         },
@@ -71,7 +71,7 @@ export default {
     },
 
     axios: {
-        baseURL: 'http://api.ergodnc.test',
+        baseURL: 'http://localhost:8000',
         credentials: true,
     },
 
